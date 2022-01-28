@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Qalculator</string>
+
+    <string name="last_result">0</string>
+    <string name="right_bracket">()</string>
+    <string name="percent">%</string>
+    <string name="clearAll">AC</string>
+    <string name="clear">CE</string>
+    <string name="square_root">√</string>
+    <string name="powered">^</string>
+    <string name="factorial">x!</string>
+    <string name="divide">/</string>
+    <string name="digit_seven">7</string>
+    <string name="digit_eight">8</string>
+    <string name="digit_nine">9</string>
+    <string name="multiply">*</string>
+    <string name="digit_four">4</string>
+    <string name="digit_five">5</string>
+    <string name="digit_six">6</string>
+    <string name="subtract">-</string>
+    <string name="digit_one">1</string>
+    <string name="digit_two">2</string>
+    <string name="digit_three">3</string>
+    <string name="add">+</string>
+    <string name="digit_double_zero">00</string>
+    <string name="digit_zero">0</string>
+    <string name="dot">.</string>
+    <string name="equals">=</string>
+</resources>
