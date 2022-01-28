@@ -107,16 +107,15 @@ class MainActivity : AppCompatActivity(), CellClickListener {
             onEqual()
         }
         binding.tvClearHistory.setOnClickListener {
-            //todo: implement clear history feature.
-            Toast.makeText(this,"Yet to Implement",Toast.LENGTH_SHORT).show();
+            mHistoryViewModel.delete()
         }
         mHistoryViewModel.history.observe(this,{
-            if(it.isNotEmpty()){
+
                 mAdapter = HistoryAdapter(this,it,this,mHistoryViewModel)
                 binding.rvHistory.layoutManager = LinearLayoutManager(this)
                 binding.rvHistory.adapter=mAdapter
                 tempList=it
-            }
+
         })
     }
 
