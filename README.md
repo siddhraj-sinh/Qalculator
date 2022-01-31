@@ -14,6 +14,13 @@ simple calculator with voice input
 
    </tr>
   </tbody> 
+ <tbody>
+<tr>
+ <td align="center"><img src="https://user-images.githubusercontent.com/69664213/151787924-4f8ddea9-7622-40c1-828f-44c13bd71ea6.jpg" alt="HomeFragment"width="300"></td>
+ <td align="center"><img src="https://user-images.githubusercontent.com/69664213/151787922-00fb7ab8-684b-4a07-ac5b-a31363f128b2.jpg" alt="HomeFragment"width="300"></td>
+ <td align="center"><img src="https://user-images.githubusercontent.com/69664213/151787913-a5bdb253-a02a-4f90-ba26-930c22369751.jpg" alt="Splash Screen" width="300"> </td>
+   </tr>
+  </tbody> 
 </table>
 
 ## What's to be done?
