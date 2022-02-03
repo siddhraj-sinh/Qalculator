@@ -44,10 +44,7 @@ class HistoryAdapter(
         }
     }
 
-    fun deleteAll(){
-        mHistoryViewModel.delete()
-        notifyDataSetChanged()
-    }
+
 
     override fun getItemCount(): Int {
         return items.size
